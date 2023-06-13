@@ -1,5 +1,9 @@
 package com.inti.model;
 
+/**
+ * Bienvenue dans la classe paiement, cette classe est faite pour la création d'une table Paiement ou sinon
+ * on peut la mettre en abstraite et utiliser les classes paypal et CB...
+ */
 import java.time.LocalDate;
 
 import javax.persistence.DiscriminatorColumn;
