@@ -9,6 +9,12 @@ import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
 import javax.persistence.Table;
 
+/**
+ * 
+ * @author sofiane
+ *
+ */
+// azdohi<dohidskoùqsfù<sroicrsoi 
 @Entity
 @Table
 public class Commande {
