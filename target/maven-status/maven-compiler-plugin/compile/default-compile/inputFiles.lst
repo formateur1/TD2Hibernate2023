@@ -1,0 +1,14 @@
+D:\eclipse-workspace\TD2Hibernate\src\main\java\com\inti\model\CB.java
+D:\eclipse-workspace\TD2Hibernate\src\main\java\com\inti\servlet\SupprimerUtilisateurServlet.java
+D:\eclipse-workspace\TD2Hibernate\src\main\java\com\inti\model\Utilisateur.java
+D:\eclipse-workspace\TD2Hibernate\src\main\java\com\inti\model\UtilisateurDetails.java
+D:\eclipse-workspace\TD2Hibernate\src\main\java\com\inti\model\Paypal.java
+D:\eclipse-workspace\TD2Hibernate\src\main\java\com\inti\servlet\ModifierUtilisateurServlet.java
+D:\eclipse-workspace\TD2Hibernate\src\main\java\com\inti\model\Role.java
+D:\eclipse-workspace\TD2Hibernate\src\main\java\com\inti\util\HibernateUtil.java
+D:\eclipse-workspace\TD2Hibernate\src\main\java\com\inti\model\Commande.java
+D:\eclipse-workspace\TD2Hibernate\src\main\java\com\inti\servlet\PaiementServlet.java
+D:\eclipse-workspace\TD2Hibernate\src\main\java\com\inti\util\TraitementBDD.java
+D:\eclipse-workspace\TD2Hibernate\src\main\java\com\inti\model\Paiement.java
+D:\eclipse-workspace\TD2Hibernate\src\main\java\com\inti\servlet\AfficherUtilisateurServlet.java
+D:\eclipse-workspace\TD2Hibernate\src\main\java\com\inti\servlet\CreerCompteServlet.java
