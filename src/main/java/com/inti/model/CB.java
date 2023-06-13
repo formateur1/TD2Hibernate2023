@@ -7,6 +7,9 @@ import javax.persistence.PrimaryKeyJoinColumn;
 import javax.persistence.Table;
 
 /**
+ * commentaire pour test
+ */
+/**
  * Classe pour le paiement en CB
  * 
  * @author Me
