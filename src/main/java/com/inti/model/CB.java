@@ -21,7 +21,9 @@ import javax.persistence.Table;
 @Entity
 @Table
 public class CB extends Paiement {
-	
+	/**
+	 * Commentaire de Daenrya blablabla
+	 */	
 	private long numeroCB;
 	private LocalDate dateE;
 	
