@@ -15,6 +15,12 @@ import javax.persistence.Table;
  * @author Me
  *
  */
+
+/**
+ * Test Merge
+ * @author shiki
+ *
+ */
 //@Entity
 //@Table
 //@PrimaryKeyJoinColumn( name = "idPaiement" )
