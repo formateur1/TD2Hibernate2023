@@ -18,6 +18,8 @@ import javax.persistence.Table;
  * 
  * Classe utilisateur...
  * 
+ * Mon commentaire : HA
+ * 
  * @author Me
  *
  */
@@ -34,6 +36,8 @@ public class Utilisateur {
 	@OneToOne(cascade = CascadeType.ALL)
 	@JoinColumn(name = "idUD")
 	private UtilisateurDetails utilisateurDetails;
+	
+	// Ajout de commentaire pour github : HA
 	
 	@OneToMany(mappedBy = "utilisateur")
 	private List<Commande> listeCommandes;
@@ -73,6 +77,8 @@ public class Utilisateur {
 		return login;
 	}
 
+	// Ajout de commentaire pour github : HA
+	
 	public void setLogin(String login) {
 		this.login = login;
 	}
@@ -114,6 +120,8 @@ public class Utilisateur {
 		return "Utilisateur [id=" + id + ", login=" + login + ", mdp=" + mdp + "]";
 	}
 	
-	
+	/*
+	 * fin du fichier : HA !
+	 */
 	
 }
