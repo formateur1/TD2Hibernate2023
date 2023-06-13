@@ -26,6 +26,13 @@ public class Paypal extends Paiement {
 		this.numero = numero;
 	}
 
+	/**
+	 * 
+	 * @param id
+	 * @param montant
+	 * @param dateP
+	 * @param numero
+	 */
 	public Paypal(int id, double montant, LocalDate dateP, int numero) {
 		super(id, montant, dateP);
 		this.numero = numero;
