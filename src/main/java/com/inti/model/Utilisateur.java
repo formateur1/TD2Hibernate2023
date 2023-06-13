@@ -14,6 +14,13 @@ import javax.persistence.OneToMany;
 import javax.persistence.OneToOne;
 import javax.persistence.Table;
 
+/**
+ * 
+ * Classe utilisateur...
+ * 
+ * @author Me
+ *
+ */
 @Entity
 @Table
 public class Utilisateur {
