@@ -6,6 +6,12 @@ import javax.persistence.Entity;
 import javax.persistence.PrimaryKeyJoinColumn;
 import javax.persistence.Table;
 
+/**
+ * Classe pour le paiement en CB
+ * 
+ * @author Me
+ *
+ */
 //@Entity
 //@Table
 //@PrimaryKeyJoinColumn( name = "idPaiement" )

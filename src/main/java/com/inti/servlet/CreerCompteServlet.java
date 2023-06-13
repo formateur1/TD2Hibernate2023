@@ -34,9 +34,6 @@ public class CreerCompteServlet extends HttpServlet {
 	
 	private Logger logger = LogManager.getLogger();
        
-    /**
-     * @see HttpServlet#HttpServlet()
-     */
     public CreerCompteServlet() {
         super();
         // TODO Auto-generated constructor stub
