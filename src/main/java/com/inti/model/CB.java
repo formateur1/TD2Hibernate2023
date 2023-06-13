@@ -17,7 +17,7 @@ import javax.persistence.Table;
  */
 
 /**
- * Test Merge
+ * Test Merge2
  * @author shiki
  *
  */
