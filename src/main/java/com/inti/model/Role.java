@@ -10,6 +10,13 @@ import javax.persistence.JoinTable;
 import javax.persistence.ManyToMany;
 import javax.persistence.Table;
 
+/**
+ * AJout d'un commentaire pour tester la modification du fichier
+ * 
+ * @author Titou
+ *
+ */
+
 @Entity
 @Table
 public class Role {
@@ -68,9 +75,6 @@ public class Role {
 	public String toString() {
 		return "Role [id=" + id + ", nom=" + nom + "]";
 	}
-	
-	
-	
 	
 
 }
