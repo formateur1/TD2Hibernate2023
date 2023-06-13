@@ -19,6 +19,7 @@ import javax.persistence.Table;
  * Classe utilisateur...
  * 
  * Mon commentaire : HA
+ * Commentaire
  * 
  * @author Me
  *
